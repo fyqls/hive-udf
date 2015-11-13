@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-mapreduce-client-jobclient:test-jar:tests:2.5.2-transwarp">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.5.2-transwarp/hadoop-mapreduce-client-jobclient-2.5.2-transwarp-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.5.2-transwarp/hadoop-mapreduce-client-jobclient-2.5.2-transwarp-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.5.2-transwarp/hadoop-mapreduce-client-jobclient-2.5.2-transwarp-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
